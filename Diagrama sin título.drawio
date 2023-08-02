@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-08-02T11:53:10.947Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="mx-07dk71iFRRbCmwcI9" version="21.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-02T12:18:14.389Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="vBA-xQ6iBnyCnCrJAaW4" version="21.1.2" type="github">
   <diagram name="Página-1" id="qFgTMPvM59LVLmVezNB7">
-    <mxGraphModel dx="373" dy="161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="373" dy="178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -29,7 +29,7 @@
           <mxGeometry x="130" y="222.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="eMvXWnumRf7xoEcsRl7s-29" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
-          <mxGeometry x="210" y="225" width="10" height="10" as="geometry" />
+          <mxGeometry x="200" y="222.5" width="10" height="10" as="geometry" />
         </mxCell>
         <mxCell id="eMvXWnumRf7xoEcsRl7s-30" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="150" y="222.5" width="10" height="10" as="geometry" />
@@ -51,6 +51,36 @@
         </mxCell>
         <mxCell id="eMvXWnumRf7xoEcsRl7s-36" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
           <mxGeometry x="80" y="270" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eMvXWnumRf7xoEcsRl7s-47" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="230" as="sourcePoint" />
+            <mxPoint x="310" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMvXWnumRf7xoEcsRl7s-48" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="70" y="229.83" as="sourcePoint" />
+            <mxPoint x="100" y="229.83" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMvXWnumRf7xoEcsRl7s-50" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="230" as="sourcePoint" />
+            <mxPoint x="320" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="eMvXWnumRf7xoEcsRl7s-51" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="330" y="225" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eMvXWnumRf7xoEcsRl7s-52" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="340" y="250" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eMvXWnumRf7xoEcsRl7s-53" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="340" y="202.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="eMvXWnumRf7xoEcsRl7s-54" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.user;" vertex="1" parent="1">
+          <mxGeometry x="350" y="227.5" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
